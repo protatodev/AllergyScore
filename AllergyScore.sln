@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllergyScore", "AllergyScore\AllergyScore.csproj", "{4477EC3A-3D8A-48FD-A501-A8A5380E4A79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllergyScore.Test", "AllergyScoreTest\AllergyScore.Test.csproj", "{17344BE8-3FF5-47C1-9EC6-87763CE5C619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4477EC3A-3D8A-48FD-A501-A8A5380E4A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4477EC3A-3D8A-48FD-A501-A8A5380E4A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4477EC3A-3D8A-48FD-A501-A8A5380E4A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17344BE8-3FF5-47C1-9EC6-87763CE5C619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17344BE8-3FF5-47C1-9EC6-87763CE5C619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17344BE8-3FF5-47C1-9EC6-87763CE5C619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17344BE8-3FF5-47C1-9EC6-87763CE5C619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
